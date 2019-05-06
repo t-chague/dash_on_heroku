@@ -1,0 +1,7 @@
+dash==0.42.0
+dash-core-components==0.47.0
+dash-html-components==0.16.0
+dash-renderer==0.23.0
+dash-table==3.6.0
+plotly==3.8.1
+gunicorn==19.7.1
